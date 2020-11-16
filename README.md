@@ -1,5 +1,12 @@
 # RabbitMQ Top Plugin
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_top](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_top).
+All issues have been transferred.
+
+## Introduction
+
 Adds UNIX top-like information on the Erlang VM to the [management UI](https://www.rabbitmq.com/management.html).
 The closest interactive CLI alternative in recent releases is `rabbitmq-diagnostics observer`.
 
